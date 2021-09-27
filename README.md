@@ -21,5 +21,5 @@
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:guilhermeguimti@gmail.com)
  <img src="https://komarev.com/ghpvc/?username=Guimti&color=blue" alt="SEUUSUARIO" /> 
 
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/Guimti/Guimti/blob/output/github-contribution-grid-snake.svg)
