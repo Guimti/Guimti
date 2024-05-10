@@ -1,7 +1,9 @@
-# Olá, eu sou o Guilherme Macedo!
+# Olá, eu sou Guilherme Macedo!
+"Desenvolvedor Java,
+graduado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de software. Continuo sempre explorando novas tecnologias, meu objetivo é adquirir conhecimento e experiência para forjar uma carreira de sucesso"
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guimti&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimti&layout=compact&theme=highcontrast)
 
 <div style="display: inline_block">
 <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,5 +24,4 @@
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:guilhermeguimti@gmail.com)
  <img src="https://komarev.com/ghpvc/?username=Guimti&color=blue" alt="SEUUSUARIO" /> 
 
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 
